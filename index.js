@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["𝘄𝗮𝘁𝗰𝗵𝗶𝗻𝗴 over jiun"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = ['idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
